@@ -1,16 +1,17 @@
-## Hi there 👋
+ ___  _ _____ ___ ___ ___ _  __
+| _ \/_\_   _| _ \_ _/ __| |/ /     Patrick McCrudden · Sydney, AU
+|  _/ _ \| | |   /| | (__| ' <      I build AI that does real work
+|_|/_/ \_\_| |_|_\___\___|_|\_\     for small businesses.
 
-<!--
-**Patto1155/Patto1155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder, TORQ. I set up AI systems for owner-run trade businesses (electricians, plumbers, solar installers) so fewer leads get lost and owners spend less time on admin. Commerce (Finance) student at Macquarie.
 
-Here are some ideas to get you started:
+ ┌───────────────────────────────────────────────┐
+ │  C U E                                        │
+ │  For businesses too busy on the job to        │
+ │  pick up the phone.                           │
+ │                                     coming    │
+ │  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   soon      │
+ └───────────────────────────────────────────────┘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+patrick@torqagency.com.au · X @pattotraderjoe
